@@ -57,11 +57,11 @@ It demonstrates an **end-to-end data analytics pipeline** — from raw data extr
 - Required Python libraries:  
   ```bash
   pip install pandas numpy matplotlib seaborn
-  ## 🛠️ How to Use This Project
+
 
 ### Clone the repository
 ```bash
-git clone https://github.com/Varshinisaba/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
+git clone https://github.com/Varshinisaba/customer-trends-analysis.git
+cd customer-trends-data-analysis
 
 
